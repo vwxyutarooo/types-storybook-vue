@@ -1,0 +1,27 @@
+{
+  "name": "types-storybook-vue",
+  "version": "0.1.0",
+  "description": "Basically this repository is almost same as [@types/storybook__react](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/storybook__react/index.d.ts), It is **unofficial**.",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vwxyutarooo/types-storybook-vue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vwxyutarooo/types-storybook-vue/issues"
+  },
+  "homepage": "https://github.com/vwxyutarooo/types-storybook-vue#readme",
+  "dependencies": {
+    "@types/react": "*",
+    "@types/webpack-env": "*"
+  },
+  "devDependencies": {
+    "react": "^16.2.0",
+    "vue": "^2.5.13"
+  }
+}
